@@ -1,0 +1,9 @@
+.demo-in{
+  display: flex;
+  justify-content: center;
+  border: 3px solid darkgreen;
+  background: linear-gradient(to bottom, #cc33ff 0%, #ff99cc 100%);
+}
+body{
+  /* background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%); */
+}
